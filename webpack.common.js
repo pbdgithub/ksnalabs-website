@@ -37,13 +37,13 @@ module.exports = {
     new HtmlWebpackPlugin({
       hash: true,
       title: 'KSNA Labs',
-      template: './src/index.html'
+      template: 'src/index.html'
     })
     // new ExtractTextPlugin('styles.css')
   ],
   output: {
-    path: path.resolve(__dirname, 'dist/'),
-    publicPath: '/dist/',
+    path: path.resolve(__dirname, './dist'),
+    publicPath: './',
     filename: 'bundle.js'
   }
 };
