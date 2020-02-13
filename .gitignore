@@ -1,0 +1,31 @@
+# Node module dir
+/node_modules
+
+# Build dir
+/dist
+
+# System Files
+.DS_Store
+Thumbs.db
+/.vs/config
+/.vs
+*.exe
+*.log
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+npm-debug.log

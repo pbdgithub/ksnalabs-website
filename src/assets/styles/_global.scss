@@ -1,0 +1,32 @@
+@import './colors.scss';
+@import './typography.scss';
+
+body, div {
+  font-family: 'MSL';
+}
+.page-container {
+  margin-top: 4rem;
+}
+.page-header {
+  height: 20rem;
+  background-size: cover;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .page-header-container {
+    .page-header-heading {
+      font-family: 'MSB';
+      font-size: 2rem;
+      text-transform: uppercase;
+      span {
+        padding: 0.5rem 1rem;
+        border-bottom: 2px solid $app-gold;
+      }
+    }
+    .page-header-desc {
+      margin-top: 2rem;
+    }
+  }
+}

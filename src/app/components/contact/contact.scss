@@ -1,0 +1,44 @@
+@import '../../../styles.scss';
+
+
+.main-item {
+  margin-top: 4rem;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  .contact-image {
+    height: 37em;
+  }
+  .background-layer {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    width: 100%;
+    height: 90%;
+    .contactText {
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      padding-top: 5em;
+    }
+    .downArrow {
+      align-items: center;
+      position: relative;
+      padding: 0.5rem 0.8rem;
+      color: black;
+      border-radius: 1rem;
+      font-size: 0.8rem;
+      background: white;
+      display: flex;
+      align-self: center;
+      width: 19em;
+      float: right;
+      margin-right: 1.2em;
+      margin-top: 18em;
+      img {
+        margin-left: 0.5rem;
+        width: 1rem;
+        height: 1rem;
+      }
+    }
+  }
+}

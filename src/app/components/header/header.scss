@@ -1,0 +1,62 @@
+@import '../../../styles.scss';
+
+.header {
+  display: flex;
+  top: 0;
+  height: 4rem;
+  position: fixed;
+  align-items: center;
+  width: calc(100% - 32rem);
+  padding: 0 16rem;
+  z-index: 2;
+  background: $header-bg;
+  justify-content: space-between;
+  .logo {
+    font-size: 1.5rem;
+    color: $white;
+    .header-logo-text-1 {
+      font-family: 'MSB'
+    }
+  }
+  .headerLinkContainer {
+    .headerLink {
+      margin-right: 1.5rem;
+      font-size: 0.85rem;
+      color: white;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: 100%;
+    padding: 0.5rem;
+  }
+  .header link {
+    float: left;
+  }
+  .header link {
+    padding: 20px 30px;
+  }
+  .header .headerLinkContainer {
+    clear: none;
+    float: right;
+    max-height: none;
+  }
+}
+
+@media (max-width: 425px) {
+  .header {
+    .logo {
+      font-size: 1rem;
+    }
+    .headerLinkContainer {
+      .headerLink {
+        font-size: 0.65rem;
+        margin-right: 1rem;
+      }
+    }
+  }
+}
