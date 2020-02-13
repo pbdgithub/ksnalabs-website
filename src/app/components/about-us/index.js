@@ -35,7 +35,7 @@ class AboutComponent extends Component {
           <div styleName="sub-item-three">
             <div styleName="items">
               <div styleName="item">
-                // <img src="./trust.jpg" alt="trust" />
+             
               </div>
               <div styleName="item-head">Trust</div>
               <div styleName="item-desc">
@@ -45,7 +45,7 @@ class AboutComponent extends Component {
             </div>
             <div styleName="items">
               <div styleName="item">
-                // <img src="./trust.jpg" alt="trust" />
+               
               </div>
               <div styleName="item-head">Process and Develop</div>
               <div styleName="item-desc">
@@ -55,7 +55,7 @@ class AboutComponent extends Component {
             </div>
             <div styleName="items">
               <div styleName="item">
-                // <img src="./trust.jpg" alt="trust" />
+              
               </div>
               <div styleName="item-head">Final Product</div>
               <div styleName="item-desc">
