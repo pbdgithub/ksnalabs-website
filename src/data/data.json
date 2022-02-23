@@ -1,0 +1,74 @@
+{
+  "Header": {
+    "title": "SOFTWARE DEVELOPMENT AND CONSULTING FOR YOUR DIGITAL SUCCESS",
+    "paragraph": "Your GO-TO-PARTNER in software development. Thrive Digitally with Full Stack Web Development. From Startups to Giants, we engineer a 3600 web connected future for all B2B, B2C, C2C and all other business models."
+  },
+  "About": {
+    "paragraph": "Founded in 2018, KSNALabs is a digital transformation consultancy and software development company that provides cutting edge engineering solutions, helping fortune 500 companies and enterprise clients untangle complex issues that always emerge during their digital evolution journey. We constantly strive to iterate and improve, and deliver meaningful, measurable results for our customers.",
+    "Why": [
+      
+      " Full Service Studio",
+      " Cradle to Grave Development Services",
+      " Cutting Edge Technology ",
+      " Future Proof Your Stack by going Headless",
+      " Performance Design ",
+      " Beautiful UI with Measurable Results",
+      " Complex projects delivered successfully ", 
+      
+      " Platform independent solution for products"
+    ],
+    "Vission":[
+      "FOR CLIENTS:  Provide best in class products and services to our partners",
+      "FOR USER: Provide ultimate user experience based on our usability study ",
+      "FOR EMPLOYEE:  Provide best in class working environment, knowledge and benefits"
+    ],
+    "Mission":[
+      " Deliver superior value to our customers striving for the highest quality ",
+      "To provide our vast clientele a broad spectrum of integrated solutions.",
+      "Committed towards full dedication to every client’s project",
+      "Offer a wide portfolio of professional web services and solutions"
+       
+    ]
+  
+  },
+  "Services": [
+   
+    {
+      "title": "Health Care",
+      "largeImage": "img/portfolio/1-large.png",
+      "smallImage": "img/portfolio/1-small.png"
+    },
+    {
+      "title": "Finance",
+      "largeImage": "img/portfolio/2-large.png",
+      "smallImage": "img/portfolio/2-small.png"
+    },
+    {
+      "title": "Retail",
+      "largeImage": "img/portfolio/3-large.png",
+      "smallImage": "img/portfolio/3-small.png"
+    },
+    {
+      "title": "Education",
+      "largeImage": "img/portfolio/4-large.png",
+      "smallImage": "img/portfolio/4-small.png"
+    },
+    {
+      "title": "Automobile",
+      "largeImage": "img/portfolio/5-large.png",
+      "smallImage": "img/portfolio/5-small.png"
+    },
+    {
+      "title": "Food & Agriculture",
+      "largeImage": "img/portfolio/6-large.png",
+      "smallImage": "img/portfolio/6-small.png"
+    }
+  ],
+ 
+  "Contact": {
+    "address": " B-108, SV Heights, Hopefarm,Whitefield, Bangalore-560 066, Karnataka  ",
+    "phone": "  +91-80-48663918",
+    "email": " info@ksnalabs.com"
+
+  }
+}
