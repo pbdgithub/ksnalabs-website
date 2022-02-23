@@ -2,7 +2,6 @@
 /node_modules
 
 # Build dir
-/dist
 
 # System Files
 .DS_Store
