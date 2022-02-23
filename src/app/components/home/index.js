@@ -31,7 +31,7 @@ class HomeComponent extends Component {
             <div styleName="anim-content">
               <div styleName="text-anim">
                 <div styleName="text-anim-content">
-                  <span>The right team for your</span>
+                  <span>The right team for your company</span>
                   <ul styleName="text-anim-list">
                     <li styleName="text-anim-list-item">application development</li>
                     <li styleName="text-anim-list-item">end-to-end solutions</li>
